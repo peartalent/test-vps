@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">VPS Test</string>
+
+    <string name="menu_home">Trang chủ</string>
+    <string name="menu_security">Chứng khoán</string>
+    <string name="menu_finance">SP Tài chính</string>
+    <string name="menu_asset">Tài sản</string>
+
+    <string name="swap">Sắp xếp</string>
+    <string name="register_service">Đăng ký dịch vụ</string>
+    <string name="featured_function">Chức năng nổi bật</string>
+    <string name="fix">Sửa</string>
+    <string name="save">Lưu</string>
+    <string name="product">Sản phẩm</string>
+    <string name="tool">Nhấn giữ và kéo để di chuyển các sản phẩm</string>
+</resources>

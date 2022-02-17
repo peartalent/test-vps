@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/menu_home"
+        android:enabled="true"
+        app:cnb_iconColor="@color/charcoal"/>
+
+    <item
+        android:id="@+id/security"
+        android:icon="@drawable/ic_security"
+        android:title="@string/menu_security"
+        app:cnb_iconColor="@color/charcoal"/>
+
+    <item
+        android:id="@+id/finance"
+        android:icon="@drawable/ic_finance"
+        android:title="@string/menu_finance"
+        app:cnb_iconColor="@color/charcoal" />
+
+    <item
+        android:id="@+id/asset"
+        android:icon="@drawable/ic_asset"
+        android:title="@string/menu_asset"
+        app:cnb_iconColor="@color/charcoal" />
+
+</menu>
